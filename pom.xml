@@ -4,7 +4,7 @@
   <groupId>sample-webapp</groupId>
   <artifactId>sample-webapp</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>sample-webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <properties>
@@ -22,6 +22,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>sample-webapp-0.0.1</finalName>
+    <finalName>sample-webapp-0.0.2</finalName>
   </build>
 </project>
