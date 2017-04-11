@@ -3,7 +3,7 @@
 	<title>Chef Training by School of Devops</title>
 	<style>
 		body {
-			background-color: #42f4fc;
+			background-color: #42f4dc;
 		}
 	</style>
 </head>
@@ -12,7 +12,7 @@
   <h1>Devops Demo </h1>
 
   <h2>App : Demo</h2>
-  <h3>version 0.0.2 </h3>
+  <h3>version 0.0.3 </h3>
 
 
 
